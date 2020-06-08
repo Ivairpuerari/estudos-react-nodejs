@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  text-align: center;
+}
+
+.rgb {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.rgbitem {
+  padding-top: 1fr;
+  padding: 1fr;
+}
+
+.output {
+  border: 1px solid;
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+}

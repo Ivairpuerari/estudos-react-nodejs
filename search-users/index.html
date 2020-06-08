@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search Users</title>
+
+    <!-- Compiled and minified JavaScript -->
+    <!-- Compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  </head>
+  <body>
+    <div class="container, center">
+      <div class="row">
+        <div class="col s12">
+          <h4>Pesquisa de usuários</h4>
+        </div>
+        <div class="input-field col s12">
+          <input
+            placeholder="Buscar"
+            id="buscar"
+            type="text"
+            class="validate"
+          />
+
+          <button
+            type="button"
+            class="waves-effect waves-light btn-small"
+            id="btnBuscar"
+          >
+            <i class="material-icons right">search</i>buscar
+          </button>
+        </div>
+      </div>
+      <div class="row">
+        <div
+          class="col s6"
+          id="output"
+          style="border: 2px solid gray; padding: 100px;"
+        ></div>
+        <div
+          class="col s6"
+          id="summaries"
+          style="border: 2px solid gray; padding: 100px;"
+        >
+          <h5>teste</h5>
+        </div>
+      </div>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
