@@ -1,0 +1,7 @@
+.input {
+  display: block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 5px;
+}

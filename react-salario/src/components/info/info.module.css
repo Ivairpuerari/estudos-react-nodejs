@@ -1,0 +1,17 @@
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 5px;
+}
+.details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 5px;
+}
