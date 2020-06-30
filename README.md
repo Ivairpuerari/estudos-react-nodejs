@@ -24,4 +24,9 @@ Este repósitorio tem como objetivo contemplar varios mini projetos web FullStac
 4. **API Control Grade**: API de CRUD para controle de disciplinas.
 
 5. **React Salário**: App para visualização de descontos de impostos sobre o salário.
-![alt text](https://github.com/Ivairpuerari/estudos-react-nodejs/blob/master/react-salario/salary_example.gif) 
+![alt text](https://github.com/Ivairpuerari/estudos-react-nodejs/blob/master/react-salario/salary_example.gif)
+
+
+6. **React Juros Composto**:: App para visualização de juros compostos sobre um montante por periodo e taxa definidos.
+![alt text](https://github.com/Ivairpuerari/estudos-react-nodejs/blob/master/react-juros-composto/juros.gif)
+
