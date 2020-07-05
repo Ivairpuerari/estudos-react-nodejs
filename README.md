@@ -30,3 +30,5 @@ Este repósitorio tem como objetivo contemplar varios mini projetos web FullStac
 6. **React Juros Composto**:: App para visualização de juros compostos sobre um montante por periodo e taxa definidos.
 ![alt text](https://github.com/Ivairpuerari/estudos-react-nodejs/blob/master/react-juros-composto/juros.gif)
 
+7. **my-bank-api**: API com integração NoSQL MongoDB para manipulação de transferencia, depósito, saque, saldo e encerramento entre contas bancarias.
+
